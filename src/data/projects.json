@@ -275,7 +275,7 @@
         "organization": "HospitalRun",
         "summary": "HospitalRun is free, open source software that provides hospitals and other medical care facilities in the developing world with access to offline-first electronic health records and an easy-to-use hospital information system.",
         "team" : [
-            "drew", "anthonyperez"
+            "drew", "anthonyperez", "cpondoc"
         ],
         "wip": true,
         "year": "2020"

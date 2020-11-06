@@ -406,5 +406,15 @@
         "links": {},
         "name": "Yuguan Xing",
         "role": "Co-President"
+    },
+    "cpondoc": {
+        "imageSrc": "./assets/PondocProfile.jpg",
+        "links": {
+            "email": "clpondoc@stanford.edu",
+            "github": "https://github.com/cpondoc",
+            "linkedin": "https://www.linkedin.com/in/pondoc/"
+        },
+        "name": "Christopher Pondoc",
+        "role": "Developer"
     }
 }
