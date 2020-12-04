@@ -147,6 +147,17 @@
         "name": "Farzaan Kaiyom",
         "role": "Team Lead"
     },
+    "gabrielacortes": {
+        "imageSrc": "./assets/gabriela_cortes_photo.jpg",
+        "links": {
+            "email": "gcrt0701@stanford.edu",
+            "github": "https://github.com/gcrt0701",
+            "linkedin" : "https://www.linkedin.com/in/gabriela-cortes-913a501ba/"
+        },
+        "name": "Gabriela Cortes",
+        "role": "Developer"
+
+    },
     "gracehu": {
         "imageSrc": "./assets/grace_hu_photo.jpg",
         "links": {
