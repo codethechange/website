@@ -277,9 +277,12 @@ If you look in your current directory by running `ls`, you should see a `WWW` fo
 echo 'test' > WWW/index.html
 ```
 
-Now at `https://stanford.edu/~<you sunet>` you should see a page that says `test`!
+Now at `https://stanford.edu/~<your sunet>` you should see a page that says `test`!
 
-Now we need to upload your game to your WWW folder. We first build the site:
+Now we need to upload your game to your WWW folder. So that the build files resolve to the right URL, add a `homepage` field to `package.json`
+with the value `https://stanford.edu/~<your sunet>/`.
+
+Next, build the site:
 
 ```console
 yarn build
@@ -288,7 +291,7 @@ yarn build
 This generates the site files in `./build`. We can upload them to Stanford AFS like this:
 
 ```console
-scp -r 'build/*' <your sunet>@cardinal.stanford.edu:~/WWW/
+scp -r build/* <your sunet>@cardinal.stanford.edu:~/WWW/
 ```
         "/>
       </div>
