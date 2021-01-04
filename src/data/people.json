@@ -209,6 +209,16 @@
         "name": "Jackson Parell",
         "role": "Developer"
     },
+    "jameszheng": {
+        "imageSrc": "./assets/JamesZheng.jpeg",
+        "links": {
+            "email": "jameszhe@stanford.edu",
+            "github": "https://github.com/jameszheng405",
+            "linkedin": "https://www.linkedin.com/in/james-zheng2/"
+        },
+        "name": "James Zheng",
+        "role": "Developer"
+    },    
     "jasonzhao": {
         "imageSrc": "./assets/jason_zhao_photo.JPG",
         "links": {
