@@ -437,5 +437,15 @@
         },
         "name": "Christopher Pondoc",
         "role": "Developer"
+    },
+    "jeremykim": {
+        "imageSrc": "./assets/JeremyKim.jpg",
+        "links": {
+            "email": "jk23541@stanford.edu",
+            "github": "https://github.com/jrmkim50",
+            "linkedin": "https://www.linkedin.com/in/jeremy-kim-2b6a1215a/"
+        },
+        "name": "Jeremy Kim",
+        "role": "Developer"
     }
 }
